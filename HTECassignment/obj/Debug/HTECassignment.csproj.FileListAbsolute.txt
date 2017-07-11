@@ -1,0 +1,8 @@
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\bin\Debug\HTECassignment.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\bin\Debug\HTECassignment.exe
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\bin\Debug\HTECassignment.pdb
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\obj\Debug\HTECassignment.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\obj\Debug\HTECassignment.exe
+C:\Users\Mladen\Documents\Visual Studio 2015\HTECassignment\HTECassignment\HTECassignment\obj\Debug\HTECassignment.pdb
